@@ -30,10 +30,6 @@ Clone the Repository
 
 ``git clone https://github.com/i-ganza007/SYNC_ELEARNING_PLATFORM.git``
 
-Navigate to the Project Directory
-
-``cd Project_SYNC``
-
 Open the HTML File
 Open index.html in your web browser to view the project.
 
