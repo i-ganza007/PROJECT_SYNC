@@ -28,7 +28,7 @@ To get started with this project:
 
 Clone the Repository
 
-``git clone ``
+``git clone https://github.com/i-ganza007/SYNC_ELEARNING_PLATFORM.git``
 
 Navigate to the Project Directory
 
